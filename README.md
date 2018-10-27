@@ -8,7 +8,7 @@ Terrapin::CommandLine.new("echo", "hello")
 
 ```
 
-#### terrapin
+### terrapin
 https://github.com/thoughtbot/terrapin
 
 ```ruby
